@@ -1,1 +1,1 @@
-# DurakGamePrototype
+# DurakGame
