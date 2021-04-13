@@ -1,0 +1,184 @@
+Application has started
+Game Started At: April 12, 2021 11:23:55 PM
+Trump Card: The King of Diamonds
+Player1's hand: The Queen of Hearts The Nine of Spades The Jack of Diamonds The Six of Diamonds The Ace of Hearts The Eight of Diamonds
+AI's hand: The Eight of Hearts The Ace of Diamonds The Jack of Hearts The Jack of Spades The King of Hearts The Queen of Spades
+Player1 is the initial attacker.
+Player1 attacked with: The Queen of Hearts
+AI defended with: The Queen of Spades
+Roles Swapped
+Player1 skipped.
+Round End
+Player1 picked up: The Queen of Hearts The Queen of Spades
+Round End
+AI is still attacker.
+AI attacked with: The Six of Hearts
+Player1 skipped.
+Round End
+Player1 picked up: The Six of Hearts
+Round End
+AI is still attacker.
+AI attacked with: The Eight of Hearts
+Player1 skipped.
+Round End
+Player1 picked up: The Eight of Hearts
+Round End
+AI is still attacker.
+AI attacked with: The Jack of Hearts
+Player1 skipped.
+Round End
+Player1 picked up: The Jack of Hearts
+Round End
+AI is still attacker.
+AI attacked with: The Jack of Spades
+Player1 skipped.
+Round End
+Player1 picked up: The Jack of Spades
+Round End
+AI is still attacker.
+AI attacked with: The Seven of Clubs
+Player1 skipped.
+Round End
+Player1 picked up: The Seven of Clubs
+Round End
+AI is still attacker.
+AI attacked with: The Queen of Clubs
+Player1 skipped.
+Round End
+Player1 picked up: The Queen of Clubs
+Round End
+AI is still attacker.
+AI attacked with: The Ten of Clubs
+Player1 skipped.
+Round End
+Player1 picked up: The Ten of Clubs
+Round End
+AI is still attacker.
+AI attacked with: The Six of Spades
+Player1 skipped.
+Round End
+Player1 picked up: The Six of Spades
+Round End
+AI is still attacker.
+AI attacked with: The King of Clubs
+Player1 skipped.
+Round End
+Player1 picked up: The King of Clubs
+Round End
+AI is still attacker.
+AI attacked with: The Seven of Hearts
+Player1 skipped.
+Round End
+Player1 picked up: The Seven of Hearts
+Round End
+AI is still attacker.
+AI attacked with: The Nine of Clubs
+Player1 skipped.
+Round End
+Player1 picked up: The Nine of Clubs
+Round End
+AI is still attacker.
+AI attacked with: The Jack of Clubs
+Player1 skipped.
+Round End
+Player1 picked up: The Jack of Clubs
+Round End
+AI is still attacker.
+AI attacked with: The King of Hearts
+Player1 skipped.
+Round End
+Player1 picked up: The King of Hearts
+Round End
+AI is still attacker.
+AI attacked with: The Eight of Clubs
+Player1 skipped.
+Round End
+Player1 picked up: The Eight of Clubs
+Round End
+AI is still attacker.
+AI attacked with: The Ten of Hearts
+Player1 skipped.
+Round End
+Player1 picked up: The Ten of Hearts
+Round End
+AI is still attacker.
+AI attacked with: The Ten of Spades
+Player1 skipped.
+Round End
+Player1 picked up: The Ten of Spades
+Round End
+AI is still attacker.
+AI attacked with: The Six of Clubs
+Player1 skipped.
+Round End
+Player1 picked up: The Six of Clubs
+Round End
+AI is still attacker.
+AI attacked with: The King of Spades
+Player1 skipped.
+Round End
+Player1 picked up: The King of Spades
+Round End
+AI is still attacker.
+AI attacked with: The Seven of Spades
+Player1 skipped.
+Round End
+Player1 picked up: The Seven of Spades
+Round End
+AI is still attacker.
+AI attacked with: The Ace of Clubs
+Player1 skipped.
+Round End
+Player1 picked up: The Ace of Clubs
+Round End
+AI is still attacker.
+AI attacked with: The Eight of Spades
+Player1 skipped.
+Round End
+Player1 picked up: The Eight of Spades
+Round End
+AI is still attacker.
+AI attacked with: The Ace of Spades
+Player1 skipped.
+Round End
+Player1 picked up: The Ace of Spades
+Round End
+AI is still attacker.
+AI attacked with: The Nine of Hearts
+Player1 skipped.
+Round End
+Player1 picked up: The Nine of Hearts
+Round End
+AI is still attacker.
+AI attacked with: The Seven of Diamonds
+Player1 skipped.
+Round End
+Player1 picked up: The Seven of Diamonds
+Round End
+AI is still attacker.
+AI attacked with: The Nine of Diamonds
+Player1 skipped.
+Round End
+Player1 picked up: The Nine of Diamonds
+Round End
+AI is still attacker.
+AI attacked with: The Ten of Diamonds
+Player1 skipped.
+Round End
+Player1 picked up: The Ten of Diamonds
+Round End
+AI is still attacker.
+AI attacked with: The Queen of Diamonds
+Player1 skipped.
+Round End
+Player1 picked up: The Queen of Diamonds
+Round End
+AI is still attacker.
+AI attacked with: The King of Diamonds
+Player1 skipped.
+Round End
+Player1 picked up: The King of Diamonds
+Round End
+AI is still attacker.
+AI attacked with: The Ace of Diamonds
+AI won the game!!
