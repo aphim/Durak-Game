@@ -1,0 +1,1569 @@
+Application has started
+Game Started At: April 9, 2021 8:34:05 PM
+Trump Card: The Ace of Hearts
+Player 1's hand: The Queen of Hearts The Eight of Diamonds The Queen of Diamonds The Nine of Diamonds The Queen of Clubs The Seven of Diamonds
+AI's hand: The Jack of Spades The Ten of Diamonds The King of Clubs The Nine of Spades The Ten of Clubs The Seven of Clubs
+Player 1 is the initial attacker.
+Player 1 attacked with: The Seven of Diamonds
+AI defended with: The Seven of Clubs
+Roles Swapped
+Player 1 defended with: The Queen of Clubs
+AI drew: The Eight of Clubs
+Player 1 drew: The King of Diamonds The Ace of Spades
+Roles Swapped
+Player 1 is the new attacker.
+Player 1 attacked with: The Eight of Diamonds
+AI defended with: The Eight of Clubs
+Roles Swapped
+Player 1 skipped.
+Round End
+AI drew: The Ace of Clubs
+Player 1 picked up: The Eight of Diamonds The Eight of Clubs
+Round End
+AI is still attacker.
+AI attacked with: The Nine of Spades
+Player 1 defended with: The Nine of Diamonds
+Roles Swapped
+AI defended with: The Ten of Diamonds
+Player 1 skipped.
+Round End
+AI drew: The Seven of Spades The Queen of Spades
+Roles Swapped
+AI is the new attacker.
+AI attacked with: The Seven of Spades
+Player 1 defended with: The Ace of Spades
+AI attacked with: The Ace of Clubs
+Player 1 skipped.
+Round End
+AI drew: The Six of Clubs The Ten of Spades
+Player 1 picked up: The Seven of Spades The Ace of Spades The Ace of Clubs
+Round End
+AI is still attacker.
+AI attacked with: The Six of Clubs
+Player 1 defended with: The Eight of Clubs
+AI drew: The Jack of Hearts
+Roles Swapped
+Player 1 is the new attacker.
+Player 1 attacked with: The Seven of Spades
+AI defended with: The Ten of Spades
+Player 1 skipped.
+Round End
+AI drew: The Six of Spades
+Roles Swapped
+AI is the new attacker.
+AI attacked with: The Six of Spades
+Player 1 defended with: The Ace of Spades
+AI drew: The Six of Hearts
+Player 1 drew: The Seven of Hearts
+Roles Swapped
+Player 1 is the new attacker.
+Player 1 attacked with: The Eight of Diamonds
+AI defended with: The Six of Hearts
+Player 1 skipped.
+Round End
+Player 1 drew: The Eight of Spades
+AI drew: The Nine of Clubs
+Roles Swapped
+AI is the new attacker.
+AI attacked with: The Nine of Clubs
+Player 1 defended with: The Ace of Clubs
+AI drew: The Ten of Hearts
+Player 1 drew: The Nine of Hearts
+Roles Swapped
+Player 1 is the new attacker.
+Player 1 attacked with: The Eight of Spades
+AI defended with: The Ten of Hearts
+Player 1 skipped.
+Round End
+Player 1 drew: The Jack of Diamonds
+AI drew: The Six of Diamonds
+Roles Swapped
+AI is the new attacker.
+AI attacked with: The Six of Diamonds
+Player 1 defended with: The Jack of Diamonds
+AI attacked with: The Jack of Spades
+Player 1 defended with: The Seven of Hearts
+AI attacked with: The Jack of Hearts
+Player 1 defended with: The Queen of Hearts
+AI attacked with: The Queen of Spades
+Player 1 defended with: The Nine of Hearts
+AI drew: The Eight of Hearts The Ace of Diamonds The King of Spades The Jack of Clubs
+Player 1 drew: The King of Hearts The Ace of Hearts
+Roles Swapped
+Player 1 is the new attacker.
+Player 1 attacked with: The Queen of Diamonds
+AI defended with: The Ace of Diamonds
+Player 1 attacked with: The Ace of Hearts
+AI picked up: The Queen of Diamonds The Ace of Diamonds The Ace of Hearts
+Round End
+Player 1 is still attacker.
+Player 1 attacked with: The King of Diamonds
+AI defended with: The King of Spades
+Roles Swapped
+Player 1 defended with: The King of Hearts
+Player 1 won the game!!
+Player 1 drew: The Ace of Spades The King of Spades The Queen of Spades The Jack of Spades The Ten of Spades The Nine of Spades
+Trump Card: The Eight of Clubs
+Player 1's hand: The Ace of Diamonds The Ten of Diamonds The Six of Spades The Six of Diamonds The Six of Hearts The Ten of Clubs
+AI's hand: The King of Diamonds The Eight of Hearts The Nine of Diamonds The Queen of Diamonds The Eight of Spades The Seven of Diamonds
+Player 1 is the initial attacker.
+AI drew: The Ace of Hearts The Nine of Hearts
+Player 1 drew: The Six of Spades The Seven of Hearts
+Player 1 drew: The Queen of Clubs
+Player 1 drew: The Nine of Diamonds The Ten of Hearts
+AI drew: The Eight of Spades The Nine of Spades The Seven of Spades
+Player 1 drew: The Six of Hearts The Seven of Clubs The Ten of Spades The King of Spades
+AI drew: The King of Clubs
+Player 1 drew: The Queen of Hearts The Ace of Clubs
+Player 1 drew: The Jack of Diamonds The Ten of Clubs
+AI drew: The Nine of Clubs The Eight of Hearts
+AI drew: The Jack of Hearts The Ace of Spades The Queen of Spades
+Player 1 drew: The Ace of Spades The King of Spades The Queen of Spades The Jack of Spades The Ten of Spades The Nine of Spades
+AI drew: The Ten of Hearts
+AI drew: The Seven of Spades
+AI drew: The Queen of Diamonds
+AI drew: The Ace of Spades
+AI drew: The Ten of Clubs
+AI drew: The Seven of Clubs
+AI drew: The Eight of Diamonds
+AI drew: The Nine of Clubs
+AI drew: The Queen of Hearts
+AI drew: The Eight of Spades
+AI drew: The Nine of Diamonds
+AI drew: The King of Spades
+AI drew: The Six of Spades
+AI drew: The Ten of Diamonds
+AI drew: The Ace of Diamonds
+AI drew: The Jack of Spades
+AI drew: The Ace of Clubs
+AI drew: The Queen of Clubs
+AI drew: The Seven of Hearts
+AI drew: The Jack of Hearts
+AI drew: The Queen of Spades
+AI drew: The Six of Diamonds
+AI drew: The Nine of Spades
+AI drew: The Seven of Diamonds
+AI drew: The Seven of Hearts
+AI drew: The King of Spades
+AI drew: The Six of Hearts
+AI drew: The Nine of Hearts
+AI drew: The Seven of Spades
+AI drew: The Eight of Clubs
+AI drew: The Queen of Diamonds
+AI drew: The Jack of Diamonds
+AI drew: The Nine of Clubs
+AI drew: The Queen of Clubs
+AI drew: The Eight of Hearts
+AI drew: The Six of Diamonds
+AI drew: The Six of Clubs
+AI drew: The Nine of Diamonds
+AI drew: The Ace of Clubs
+AI drew: The Eight of Diamonds
+AI drew: The Jack of Clubs
+AI drew: The King of Clubs
+AI drew: The Six of Spades
+AI drew: The Ace of Hearts
+AI drew: The King of Diamonds
+AI drew: The Ten of Diamonds
+AI drew: The Jack of Hearts
+AI drew: The Jack of Spades
+AI drew: The Eight of Spades
+AI drew: The Six of Hearts
+AI drew: The Nine of Hearts
+AI drew: The Six of Diamonds
+AI drew: The Jack of Hearts
+AI drew: The Six of Clubs
+AI drew: The King of Hearts
+AI drew: The Jack of Clubs
+AI drew: The Seven of Spades
+AI drew: The Jack of Diamonds
+AI drew: The Queen of Diamonds
+AI drew: The Eight of Clubs
+AI drew: The Ten of Diamonds The Seven of Diamonds The Nine of Spades The Queen of Hearts The King of Diamonds The Six of Spades
+AI drew: The Jack of Diamonds
+AI drew: The Six of Diamonds
+AI drew: The Six of Hearts
+AI drew: The Queen of Diamonds
+AI drew: The King of Clubs
+AI drew: The Seven of Diamonds
+Player 1 drew: The Queen of Spades
+AI drew: The Six of Diamonds
+Player 1 drew: The King of Diamonds
+AI drew: The Queen of Diamonds
+AI drew: The Seven of Clubs
+Player 1 drew: The Eight of Clubs
+Player 1 drew: The Six of Diamonds
+AI drew: The King of Clubs
+AI drew: The Ace of Clubs
+Player 1 drew: The Eight of Diamonds
+AI drew: The Ten of Spades
+AI drew: The Six of Spades
+Player 1 drew: The Seven of Hearts
+AI drew: The Six of Clubs
+AI drew: The Ten of Diamonds
+AI drew: The Jack of Hearts
+AI drew: The Six of Spades
+AI drew: The Ace of Diamonds
+AI drew: The Queen of Spades
+AI drew: The Ten of Hearts
+AI drew: The Seven of Spades
+AI drew: The Nine of Clubs
+AI drew: The King of Spades
+AI drew: The Nine of Hearts
+AI drew: The Queen of Clubs
+AI drew: The Nine of Spades
+AI drew: The Ten of Clubs
+AI drew: The Ace of Clubs
+AI drew: The Seven of Hearts
+AI drew: The Six of Spades
+AI drew: The Six of Clubs
+Player 1 drew: The Eight of Hearts
+AI drew: The Jack of Spades
+AI drew: The Six of Diamonds
+AI drew: The Ten of Hearts
+AI drew: The Seven of Spades
+AI drew: The Ace of Diamonds
+AI drew: The Queen of Diamonds
+AI drew: The King of Hearts
+AI drew: The Eight of Diamonds
+AI drew: The Jack of Diamonds
+AI drew: The Seven of Clubs The Nine of Clubs The Seven of Hearts
+AI drew: The Six of Clubs The Six of Spades The Queen of Spades The King of Diamonds
+AI drew: The Nine of Hearts The Ace of Clubs The Ten of Clubs
+AI drew: The King of Clubs
+AI drew: The Ace of Hearts
+AI drew: The Eight of Clubs
+AI drew: The Eight of Spades
+Player 1 drew: The Queen of Spades
+AI drew: The Ace of Spades
+AI drew: The Jack of Spades
+AI drew: The Ace of Hearts
+AI drew: The Queen of Diamonds
+AI drew: The Jack of Diamonds
+AI drew: The Nine of Diamonds
+AI drew: The Eight of Hearts
+AI drew: The Eight of Diamonds
+AI drew: The Six of Spades
+AI drew: The King of Clubs The Six of Clubs
+AI drew: The Nine of Hearts
+AI drew: The King of Diamonds The Seven of Diamonds The Eight of Spades The Ace of Clubs The Queen of Clubs The Seven of Hearts
+AI drew: The Nine of Hearts
+AI drew: The Ten of Hearts
+AI drew: The Ten of Clubs
+AI drew: The Queen of Spades
+AI drew: The Ace of Diamonds
+AI drew: The Six of Diamonds
+AI drew: The Jack of Hearts
+AI drew: The Ace of Hearts
+AI drew: The Six of Clubs
+AI drew: The Nine of Diamonds
+AI drew: The Ten of Hearts
+AI drew: The Six of Spades
+AI drew: The Jack of Diamonds
+AI drew: The Jack of Clubs
+AI drew: The Ace of Spades
+AI drew: The Ten of Diamonds
+AI drew: The Ace of Hearts
+Player 1 drew: The Seven of Diamonds
+AI drew: The Jack of Hearts
+AI drew: The Ace of Spades
+AI drew: The Seven of Spades
+AI drew: The Nine of Spades
+AI drew: The Nine of Hearts
+AI drew: The Nine of Diamonds
+AI drew: The Seven of Clubs
+AI drew: The Ten of Spades
+AI drew: The Jack of Spades
+AI drew: The Ace of Clubs
+AI drew: The Jack of Diamonds The Ace of Hearts
+AI drew: The Jack of Clubs The Queen of Diamonds The Eight of Clubs The Ten of Diamonds The Seven of Diamonds The Ace of Diamonds
+AI drew: The Ten of Spades
+AI drew: The King of Spades
+AI drew: The Queen of Diamonds
+AI drew: The Six of Hearts
+AI drew: The Jack of Spades
+AI drew: The Eight of Spades
+AI drew: The Queen of Hearts
+AI drew: The Seven of Hearts
+AI drew: The Six of Spades
+AI drew: The King of Hearts
+AI drew: The King of Diamonds
+AI drew: The Queen of Clubs
+AI drew: The Nine of Spades
+AI drew: The Ten of Hearts
+AI drew: The Ace of Diamonds
+AI drew: The Ace of Hearts
+AI drew: The Nine of Hearts
+AI drew: The Queen of Spades The Ace of Clubs The Seven of Clubs The Six of Diamonds The Jack of Diamonds The Ace of Spades
+Player 1 drew: The Eight of Clubs
+AI drew: The Jack of Spades
+AI drew: The Six of Hearts
+AI drew: The Ten of Diamonds
+AI drew: The Eight of Hearts
+AI drew: The Six of Diamonds
+AI drew: The Six of Spades
+AI drew: The Ace of Clubs
+AI drew: The King of Spades
+AI drew: The Jack of Diamonds
+AI drew: The Nine of Diamonds
+AI drew: The Seven of Diamonds
+AI drew: The Nine of Spades
+AI drew: The Queen of Clubs The Ten of Hearts
+AI drew: The Ace of Spades The Seven of Spades The King of Diamonds The Ace of Diamonds The Queen of Diamonds The Ace of Hearts
+Player 1 drew: The Nine of Hearts
+AI drew: The Nine of Clubs
+AI drew: The Nine of Spades
+AI drew: The King of Spades
+AI drew: The Eight of Diamonds
+AI drew: The Seven of Hearts
+AI drew: The Seven of Clubs
+AI drew: The Ace of Clubs
+AI drew: The Seven of Diamonds
+AI drew: The Jack of Clubs
+AI drew: The Queen of Spades
+AI drew: The Eight of Clubs
+AI drew: The Ace of Diamonds
+AI drew: The Six of Diamonds
+AI drew: The Jack of Diamonds The Ace of Spades The Eight of Spades The Ten of Diamonds The Ten of Clubs The Six of Clubs
+AI drew: The King of Hearts The Jack of Spades The Ace of Hearts
+AI drew: The Queen of Clubs
+Player 1 drew: The Queen of Spades
+AI drew: The King of Clubs
+AI drew: The King of Spades
+AI drew: The Ace of Spades
+AI drew: The Eight of Clubs
+AI drew: The Queen of Diamonds
+AI drew: The Seven of Clubs
+AI drew: The Ten of Spades
+AI drew: The Eight of Spades
+AI drew: The Six of Hearts
+AI drew: The Six of Spades
+AI drew: The King of Hearts
+AI drew: The Seven of Diamonds The Eight of Diamonds The Queen of Clubs The Seven of Hearts The Jack of Diamonds
+AI drew: The Jack of Hearts The Six of Clubs The Ace of Clubs The Eight of Hearts The Nine of Diamonds
+AI drew: The Ten of Diamonds
+AI drew: The Seven of Spades
+AI drew: The King of Spades
+AI drew: The Queen of Diamonds
+AI drew: The King of Hearts
+AI drew: The Six of Clubs
+AI drew: The Ten of Clubs
+AI drew: The Ten of Diamonds
+AI drew: The Seven of Diamonds
+AI drew: The Jack of Spades
+AI drew: The Nine of Clubs
+AI drew: The Seven of Spades
+AI drew: The King of Clubs The Jack of Hearts The Queen of Hearts The Nine of Diamonds The Nine of Hearts The Eight of Spades
+AI drew: The Ten of Spades The Eight of Hearts The Nine of Spades
+AI drew: The Jack of Clubs
+AI drew: The Ace of Hearts
+AI drew: The Queen of Clubs The Ace of Diamonds The Seven of Clubs
+Player 1 drew: The Jack of Spades
+AI drew: The Ace of Diamonds
+AI drew: The Ace of Spades
+AI drew: The Ten of Hearts
+AI drew: The Six of Hearts
+AI drew: The Seven of Spades
+AI drew: The Nine of Spades
+AI drew: The Queen of Hearts
+AI drew: The Eight of Clubs
+AI drew: The Ace of Hearts The Nine of Clubs The King of Hearts The Queen of Clubs
+AI drew: The King of Diamonds
+AI drew: The Eight of Diamonds
+AI drew: The Jack of Diamonds
+AI drew: The Queen of Diamonds
+AI drew: The Queen of Diamonds
+AI drew: The Eight of Diamonds
+AI drew: The Jack of Diamonds
+AI drew: The Jack of Clubs
+AI drew: The Eight of Clubs
+AI drew: The Eight of Spades
+AI drew: The Queen of Spades
+AI drew: The Six of Hearts
+AI drew: The Eight of Hearts
+AI drew: The Ten of Hearts
+AI drew: The Nine of Spades
+AI drew: The Ace of Spades
+AI drew: The Ten of Spades
+AI drew: The Six of Clubs
+AI drew: The Six of Diamonds
+AI drew: The Seven of Clubs
+AI drew: The Seven of Hearts
+AI drew: The King of Hearts
+AI drew: The Six of Spades
+AI drew: The Nine of Diamonds
+Player 1 drew: The Eight of Diamonds
+AI drew: The Eight of Clubs
+AI drew: The Eight of Hearts
+AI drew: The King of Spades
+AI drew: The Nine of Spades
+AI drew: The Ten of Clubs
+AI drew: The Ace of Diamonds
+AI drew: The King of Hearts
+AI drew: The Jack of Hearts
+AI drew: The Ten of Diamonds
+AI drew: The Ten of Hearts
+AI drew: The Queen of Hearts
+AI drew: The Six of Spades
+AI drew: The Jack of Diamonds The Eight of Spades
+Player 1 drew: The Ace of Spades
+AI drew: The Six of Hearts
+AI drew: The King of Clubs
+AI drew: The Ace of Clubs
+AI drew: The Six of Spades
+AI drew: The Ace of Diamonds
+AI drew: The Jack of Spades
+AI drew: The Eight of Diamonds
+AI drew: The King of Spades
+AI drew: The Ten of Spades
+AI drew: The Nine of Diamonds
+AI drew: The Ace of Hearts
+AI drew: The Eight of Hearts
+AI drew: The Queen of Hearts The Seven of Hearts The Nine of Hearts The King of Diamonds
+AI drew: The Ten of Diamonds
+Player 1 drew: The Seven of Clubs
+AI drew: The Eight of Diamonds
+AI drew: The Six of Hearts
+AI drew: The Seven of Diamonds
+AI drew: The Ten of Clubs
+AI drew: The Queen of Diamonds
+AI drew: The King of Hearts
+AI drew: The Ace of Clubs
+AI drew: The Six of Clubs
+AI drew: The Ten of Diamonds The Seven of Spades
+AI drew: The Ace of Hearts The Eight of Spades The Jack of Diamonds The Seven of Hearts The Jack of Clubs The Queen of Hearts
+AI drew: The Nine of Clubs The Ace of Diamonds The Eight of Clubs The Nine of Spades The Six of Diamonds
+AI drew: The Jack of Hearts The King of Spades
+AI drew: The Queen of Hearts
+AI drew: The Nine of Diamonds
+AI drew: The Ten of Diamonds
+AI drew: The Six of Hearts
+AI drew: The Nine of Spades
+AI drew: The King of Diamonds
+AI drew: The Seven of Clubs
+AI drew: The Eight of Clubs
+AI drew: The King of Hearts
+Player 1 drew: The King of Hearts
+AI drew: The King of Spades
+AI drew: The Jack of Spades
+AI drew: The Eight of Spades
+AI drew: The King of Diamonds The Ace of Hearts The Nine of Diamonds
+AI drew: The Seven of Diamonds
+Player 1 drew: The Nine of Spades
+AI drew: The Jack of Clubs
+Player 1 drew: The Ten of Hearts The Seven of Hearts The Seven of Diamonds
+AI drew: The Eight of Diamonds The Queen of Clubs
+AI drew: The Queen of Diamonds The Jack of Hearts
+AI drew: The King of Diamonds
+AI drew: The Queen of Hearts
+AI drew: The Ace of Hearts
+AI drew: The Nine of Spades
+AI drew: The Seven of Clubs
+AI drew: The Ace of Spades
+AI drew: The Eight of Clubs The Six of Clubs The Ten of Clubs The Six of Hearts The Jack of Diamonds
+AI drew: The Seven of Spades The Ten of Diamonds
+AI drew: The Eight of Hearts The Six of Diamonds
+Player 1 drew: The Ace of Diamonds
+Player 1 drew: The Ace of Spades The King of Spades The Queen of Spades The Jack of Spades The Ten of Spades The Nine of Spades
+AI drew: The Seven of Diamonds The King of Spades The Eight of Clubs
+Player 1 drew: The Jack of Hearts The Six of Clubs The Seven of Hearts
+Player 1 drew: The Ten of Clubs
+AI drew: The Six of Diamonds
+AI drew: The Six of Spades
+Player 1 drew: The Ace of Clubs The Six of Hearts
+Player 1 drew: The Seven of Spades The Queen of Spades
+Player 1 drew: The Eight of Spades
+AI drew: The Ace of Spades
+AI drew: The Ace of Hearts
+AI drew: The King of Clubs
+AI drew: The Jack of Clubs
+AI drew: The Nine of Diamonds
+AI drew: The Six of Diamonds
+AI drew: The Jack of Diamonds
+AI drew: The Nine of Spades
+AI drew: The King of Diamonds
+AI drew: The Ten of Diamonds
+AI drew: The Seven of Clubs
+AI drew: The King of Spades
+AI drew: The Six of Clubs
+AI drew: The Ten of Hearts
+AI drew: The Queen of Clubs
+AI drew: The Jack of Spades
+AI drew: The Jack of Hearts
+AI drew: The Ten of Clubs
+AI drew: The Eight of Hearts
+Hello drew: The King of Hearts
+Hello drew: The Ace of Diamonds
+AI drew: The Ten of Clubs
+AI drew: The Six of Clubs The Jack of Hearts
+AI drew: The Queen of Clubs The Six of Spades
+Player 1 drew: The Nine of Clubs The Seven of Diamonds
+AI drew: The Ace of Clubs The King of Hearts
+AI drew: The Seven of Hearts
+Player 1 drew: The Jack of Spades
+AI drew: The Six of Diamonds
+Player 1 drew: The Queen of Spades The King of Spades
+Player 1 drew: The Nine of Spades
+AI drew: The Queen of Diamonds
+AI drew: The Seven of Clubs
+Player 1 drew: The Nine of Diamonds
+Player 1 drew: The Ten of Hearts The Eight of Hearts
+Player 1 drew: The Seven of Spades
+AI drew: The Six of Hearts The King of Clubs
+AI drew: The Queen of Hearts
+Player 1 drew: The Jack of Clubs
+AI drew: The Ace of Spades The King of Spades The Queen of Spades The Jack of Spades The Ten of Spades The Nine of Spades
+Player 1 drew: The Ace of Diamonds
+AI drew: The Ace of Hearts
+AI drew: The Ten of Hearts
+AI drew: The Eight of Spades
+AI drew: The Six of Hearts
+AI drew: The Seven of Clubs
+AI drew: The Eight of Hearts
+AI drew: The King of Diamonds
+AI drew: The Nine of Clubs
+AI drew: The Seven of Hearts
+AI drew: The Queen of Clubs
+AI drew: The Six of Diamonds
+AI drew: The Eight of Clubs
+AI drew: The Ten of Diamonds
+AI drew: The Queen of Spades
+AI drew: The King of Spades
+AI drew: The Six of Clubs
+AI drew: The Six of Spades
+AI drew: The Seven of Diamonds
+AI drew: The Ace of Clubs
+AI drew: The Queen of Hearts
+AI drew: The Jack of Hearts
+AI drew: The Ten of Spades
+AI drew: The Seven of Spades
+AI drew: The Eight of Clubs
+AI drew: The Eight of Diamonds
+AI drew: The Six of Hearts
+AI drew: The Nine of Hearts
+AI drew: The Six of Spades
+AI drew: The Six of Clubs
+AI drew: The Seven of Clubs
+AI drew: The Jack of Clubs
+AI drew: The King of Clubs
+AI drew: The Queen of Spades
+AI drew: The Queen of Diamonds
+AI drew: The Eight of Hearts
+AI drew: The Seven of Diamonds
+AI drew: The Ten of Clubs
+AI drew: The Seven of Hearts
+AI drew: The Queen of Hearts
+AI drew: The Seven of Spades
+AI drew: The Ten of Spades
+AI drew: The King of Spades
+AI drew: The King of Diamonds
+AI drew: The King of Hearts
+AI drew: The Ten of Hearts
+AI drew: The Ace of Diamonds
+AI drew: The Eight of Spades
+Player 1 drew: The King of Hearts
+AI drew: The Eight of Spades The King of Spades
+AI drew: The Jack of Diamonds
+AI drew: The Six of Diamonds
+AI drew: The Six of Clubs
+AI drew: The Eight of Diamonds
+AI drew: The Queen of Clubs
+AI drew: The Six of Hearts
+AI drew: The Ten of Hearts
+AI drew: The Nine of Hearts
+AI drew: The Ten of Diamonds
+AI drew: The Ten of Clubs
+AI drew: The Nine of Diamonds
+AI drew: The Seven of Spades
+AI drew: The Ace of Clubs
+AI drew: The Ace of Spades
+AI drew: The Nine of Spades
+AI drew: The Ace of Hearts
+AI drew: The King of Clubs
+AI drew: The Ten of Spades
+AI drew: The Queen of Diamonds
+AI drew: The Nine of Clubs
+AI drew: The Jack of Spades
+AI drew: The Seven of Diamonds
+AI drew: The Eight of Hearts
+AI drew: The Six of Hearts
+AI drew: The Ten of Diamonds
+AI drew: The Six of Spades
+AI drew: The Seven of Spades
+AI drew: The Nine of Clubs
+AI drew: The Nine of Diamonds
+AI drew: The Eight of Hearts
+AI drew: The Jack of Hearts
+AI drew: The Six of Diamonds
+AI drew: The Nine of Spades
+AI drew: The Six of Hearts The King of Clubs
+AI drew: The Ten of Diamonds
+AI drew: The Seven of Clubs
+AI drew: The Eight of Diamonds
+AI drew: The Queen of Hearts
+AI drew: The Jack of Clubs
+AI drew: The Nine of Hearts
+AI drew: The Ten of Hearts
+AI drew: The Ten of Clubs
+AI drew: The Seven of Spades
+AI drew: The Nine of Clubs
+AI drew: The Six of Spades
+AI drew: The Six of Clubs
+AI drew: The Ace of Clubs
+AI drew: The Queen of Clubs
+AI drew: The King of Spades
+AI drew: The Eight of Clubs
+AI drew: The Jack of Spades
+AI drew: The Ten of Spades
+AI drew: The Eight of Spades
+AI drew: The Six of Spades
+AI drew: The Seven of Clubs
+AI drew: The Six of Hearts
+AI drew: The Ace of Clubs
+AI drew: The Ten of Hearts
+AI drew: The Nine of Hearts
+AI drew: The Eight of Diamonds
+AI drew: The King of Hearts
+AI drew: The Six of Diamonds
+AI drew: The Ten of Diamonds
+AI drew: The Queen of Clubs
+AI drew: The Ace of Diamonds
+AI drew: The Nine of Diamonds
+AI drew: The Jack of Spades
+AI drew: The King of Clubs
+AI drew: The Ten of Spades
+AI drew: The Seven of Spades
+AI drew: The Queen of Hearts
+AI drew: The Seven of Hearts
+AI drew: The Queen of Spades
+AI drew: The Eight of Clubs
+AI drew: The Six of Clubs
+AI drew: The Ace of Hearts
+AI drew: The Queen of Diamonds
+AI drew: The Six of Spades
+AI drew: The Six of Hearts
+AI drew: The Ace of Diamonds
+AI drew: The Nine of Hearts
+AI drew: The Six of Diamonds
+AI drew: The Queen of Hearts
+AI drew: The Jack of Diamonds
+AI drew: The Seven of Spades
+AI drew: The Jack of Diamonds
+AI drew: The Queen of Spades
+AI drew: The Six of Spades
+AI drew: The King of Hearts
+AI drew: The Nine of Diamonds
+AI drew: The Six of Clubs
+AI drew: The Eight of Spades
+AI drew: The Ten of Hearts
+AI drew: The Jack of Hearts
+AI drew: The Eight of Hearts
+AI drew: The Eight of Diamonds
+AI drew: The Ten of Spades
+AI drew: The Jack of Spades
+AI drew: The Seven of Hearts
+AI drew: The Six of Diamonds
+AI drew: The Nine of Clubs
+AI drew: The Jack of Clubs
+AI drew: The Ace of Spades
+AI drew: The Queen of Diamonds
+AI drew: The Queen of Clubs
+AI drew: The Nine of Spades
+AI drew: The Ace of Hearts
+AI drew: The King of Diamonds
+AI drew: The Seven of Clubs
+Andre drew: The Six of Diamonds
+AI drew: The Seven of Spades
+AI drew: The Nine of Diamonds
+AI drew: The Nine of Clubs
+AI drew: The Nine of Spades
+AI drew: The King of Hearts
+AI drew: The Six of Hearts
+AI drew: The King of Spades
+AI drew: The Ace of Hearts
+AI drew: The Eight of Diamonds
+AI drew: The Jack of Diamonds
+AI drew: The Queen of Spades
+AI drew: The Seven of Clubs
+AI drew: The Six of Spades
+AI drew: The Nine of Hearts
+AI drew: The Jack of Hearts
+AI drew: The Seven of Diamonds
+AI drew: The King of Diamonds
+AI drew: The Eight of Clubs
+AI drew: The Eight of Spades
+AI drew: The Eight of Hearts
+AI drew: The Ten of Clubs
+AI drew: The King of Clubs
+AI drew: The Ace of Clubs
+AI drew: The Seven of Spades The King of Hearts
+AI drew: The Seven of Clubs
+AI drew: The Ten of Spades
+AI drew: The Eight of Spades
+AI drew: The Ten of Diamonds
+AI drew: The King of Diamonds
+AI drew: The Queen of Spades
+AI drew: The Seven of Hearts
+AI drew: The Nine of Diamonds
+AI drew: The King of Clubs
+AI drew: The Nine of Hearts
+AI drew: The Seven of Diamonds
+AI drew: The Eight of Hearts
+AI drew: The Six of Spades
+AI drew: The Ten of Clubs
+AI drew: The Jack of Clubs
+AI drew: The Ace of Spades
+AI drew: The Ace of Clubs
+AI drew: The Jack of Hearts
+AI drew: The Queen of Hearts
+AI drew: The Six of Diamonds
+AI drew: The Nine of Clubs
+AI drew: The Queen of Diamonds
+Andre drew: The King of Diamonds
+AI drew: The King of Hearts
+AI drew: The Ace of Clubs
+AI drew: The Jack of Diamonds
+AI drew: The Ace of Spades
+AI drew: The Ace of Hearts
+AI drew: The Seven of Hearts
+AI drew: The Jack of Hearts
+AI drew: The Nine of Diamonds
+AI drew: The Ace of Diamonds
+AI drew: The Seven of Diamonds
+AI drew: The Ten of Diamonds
+AI drew: The Ten of Clubs
+AI drew: The Queen of Spades
+AI drew: The Eight of Hearts
+AI drew: The Seven of Spades
+AI drew: The Jack of Clubs
+AI drew: The Eight of Spades
+AI drew: The Ten of Hearts
+AI drew: The Queen of Diamonds
+AI drew: The Eight of Clubs
+AI drew: The Six of Clubs
+AI drew: The Six of Hearts
+AI drew: The King of Spades
+AI drew: The Nine of Spades
+AI drew: The Eight of Clubs
+AI drew: The Ace of Spades
+AI drew: The Six of Hearts
+AI drew: The Eight of Diamonds
+AI drew: The Six of Diamonds
+AI drew: The Eight of Hearts
+AI drew: The Ace of Clubs
+AI drew: The Jack of Hearts
+AI drew: The King of Clubs
+AI drew: The Seven of Diamonds
+AI drew: The Jack of Diamonds
+AI drew: The Nine of Hearts
+AI drew: The Queen of Diamonds
+AI drew: The Queen of Hearts
+AI drew: The Ace of Diamonds
+AI drew: The Seven of Spades
+AI drew: The Six of Clubs
+AI drew: The Jack of Spades
+AI drew: The King of Hearts
+AI drew: The Nine of Diamonds
+AI drew: The Ten of Hearts
+AI drew: The Queen of Spades
+AI drew: The Ten of Clubs
+AI drew: The Eight of Spades
+AI drew: The Jack of Spades
+AI drew: The Ten of Clubs
+AI drew: The Six of Clubs
+AI drew: The King of Clubs
+AI drew: The Queen of Diamonds
+AI drew: The King of Hearts
+AI drew: The Nine of Diamonds
+AI drew: The Queen of Clubs
+AI drew: The Jack of Hearts
+AI drew: The Six of Hearts
+AI drew: The Ace of Clubs
+AI drew: The Nine of Spades
+AI drew: The Queen of Spades
+AI drew: The Eight of Clubs
+AI drew: The Seven of Hearts
+AI drew: The Ace of Hearts
+AI drew: The Ten of Spades
+AI drew: The Seven of Diamonds
+AI drew: The Jack of Clubs
+AI drew: The Jack of Diamonds
+AI drew: The Eight of Hearts
+AI drew: The Six of Diamonds
+AI drew: The Seven of Spades
+AI drew: The Eight of Spades
+AI drew: The Jack of Diamonds
+AI drew: The Seven of Spades
+AI drew: The Ace of Hearts
+AI drew: The King of Hearts
+AI drew: The Queen of Hearts
+AI drew: The Ten of Hearts
+AI drew: The Six of Hearts
+AI drew: The Six of Diamonds
+AI drew: The Nine of Hearts
+AI drew: The Six of Clubs
+AI drew: The Nine of Spades
+AI drew: The Queen of Spades
+AI drew: The Nine of Diamonds
+AI drew: The Jack of Hearts
+AI drew: The Ace of Spades
+AI drew: The Jack of Clubs
+AI drew: The King of Diamonds
+AI drew: The Ace of Diamonds
+AI drew: The Ten of Spades
+AI drew: The Ten of Clubs
+AI drew: The Ten of Diamonds
+AI drew: The Seven of Clubs
+AI drew: The King of Spades
+AI drew: The Queen of Clubs
+AI drew: The Ten of Hearts
+AI drew: The King of Diamonds
+AI drew: The Ten of Clubs
+AI drew: The Seven of Hearts
+AI drew: The Nine of Hearts
+AI drew: The Seven of Clubs
+AI drew: The Nine of Diamonds
+AI drew: The Queen of Diamonds
+AI drew: The Eight of Clubs
+AI drew: The Jack of Clubs
+AI drew: The Eight of Hearts
+AI drew: The Seven of Spades
+AI drew: The King of Clubs
+AI drew: The Queen of Spades
+AI drew: The Eight of Diamonds
+AI drew: The Jack of Hearts
+AI drew: The Ace of Clubs
+AI drew: The Six of Diamonds
+AI drew: The Queen of Hearts
+AI drew: The Eight of Spades
+AI drew: The Ace of Spades
+AI drew: The Ace of Hearts
+AI drew: The King of Hearts
+AI drew: The Nine of Hearts
+AI drew: The Six of Clubs
+AI drew: The King of Diamonds
+AI drew: The Jack of Clubs
+AI drew: The Eight of Spades
+AI drew: The Ace of Hearts
+AI drew: The Ten of Diamonds
+AI drew: The Queen of Diamonds
+AI drew: The Nine of Spades
+AI drew: The King of Spades
+AI drew: The Six of Spades
+AI drew: The Nine of Diamonds
+AI drew: The Nine of Clubs
+AI drew: The Ace of Diamonds
+AI drew: The Ace of Clubs
+AI drew: The Queen of Spades
+AI drew: The Jack of Diamonds
+AI drew: The King of Hearts
+AI drew: The Ace of Spades
+AI drew: The Queen of Hearts
+AI drew: The Eight of Diamonds
+AI drew: The Seven of Clubs
+AI drew: The Seven of Spades
+AI drew: The Jack of Spades
+Test drew: The Eight of Spades
+AI drew: The Queen of Clubs
+AI drew: The Ace of Hearts
+AI drew: The Eight of Hearts
+AI drew: The Six of Hearts
+AI drew: The Ten of Clubs
+AI drew: The Six of Diamonds
+AI drew: The King of Hearts
+AI drew: The Nine of Spades
+AI drew: The Nine of Hearts
+AI drew: The King of Spades
+AI drew: The Jack of Clubs
+AI drew: The Ten of Spades
+AI drew: The Jack of Diamonds
+AI drew: The King of Clubs
+AI drew: The Seven of Diamonds
+AI drew: The Eight of Clubs
+AI drew: The King of Diamonds
+AI drew: The Jack of Spades
+AI drew: The Ten of Diamonds
+AI drew: The Seven of Spades
+AI drew: The Six of Clubs
+AI drew: The Queen of Diamonds
+AI drew: The Seven of Hearts
+AI drew: The Ten of Diamonds
+AI drew: The Jack of Spades
+AI drew: The Ten of Clubs
+AI drew: The Queen of Spades
+AI drew: The Eight of Diamonds
+AI drew: The King of Spades
+AI drew: The Eight of Hearts
+AI drew: The Six of Diamonds
+AI drew: The Ace of Clubs
+AI drew: The King of Clubs
+AI drew: The Jack of Clubs
+AI drew: The Ace of Spades
+AI drew: The Jack of Diamonds
+AI drew: The Queen of Hearts
+AI drew: The Seven of Hearts
+AI drew: The Nine of Spades
+AI drew: The Eight of Spades
+AI drew: The Ace of Hearts
+AI drew: The Six of Clubs
+AI drew: The Queen of Diamonds
+AI drew: The Nine of Hearts
+AI drew: The King of Diamonds
+AI drew: The Ace of Diamonds
+AI drew: The Seven of Spades
+Andre drew: The Seven of Hearts
+AI drew: The Jack of Diamonds
+AI drew: The Six of Hearts
+AI drew: The Ten of Spades
+AI drew: The Nine of Hearts
+AI drew: The Eight of Spades
+AI drew: The Ten of Clubs
+AI drew: The King of Hearts
+AI drew: The Ten of Hearts
+AI drew: The Ace of Diamonds
+AI drew: The Jack of Spades
+AI drew: The King of Spades
+AI drew: The Ace of Clubs
+AI drew: The Ten of Diamonds
+AI drew: The Six of Clubs
+AI drew: The Eight of Hearts
+AI drew: The Queen of Clubs
+AI drew: The Jack of Clubs
+AI drew: The Nine of Diamonds
+AI drew: The Eight of Diamonds
+AI drew: The King of Clubs
+AI drew: The Nine of Spades
+AI drew: The Nine of Clubs
+AI drew: The Queen of Diamonds
+Asd123 drew: The Ten of Clubs
+AI drew: The Ace of Spades
+AI drew: The Jack of Spades
+AI drew: The Ace of Diamonds
+AI drew: The Eight of Spades
+AI drew: The Queen of Spades
+AI drew: The Ten of Diamonds
+AI drew: The Ace of Hearts
+AI drew: The Nine of Diamonds
+AI drew: The Jack of Clubs
+AI drew: The King of Hearts
+AI drew: The Eight of Clubs
+AI drew: The Seven of Spades
+AI drew: The Eight of Hearts
+AI drew: The King of Clubs
+AI drew: The Queen of Clubs
+AI drew: The Ten of Hearts
+AI drew: The Six of Clubs
+AI drew: The Queen of Hearts
+AI drew: The Nine of Clubs
+AI drew: The Nine of Hearts
+AI drew: The Eight of Diamonds
+AI drew: The Seven of Diamonds
+AI drew: The Seven of Hearts
+AI drew: The Ten of Hearts
+AI drew: The Ten of Clubs
+AI drew: The Ace of Spades
+AI drew: The Ace of Clubs
+AI drew: The Seven of Spades
+AI drew: The Eight of Hearts
+AI drew: The Queen of Spades
+AI drew: The Jack of Spades
+AI drew: The King of Spades
+AI drew: The Nine of Spades
+AI drew: The Jack of Hearts
+AI drew: The Nine of Hearts
+AI drew: The Ace of Diamonds
+AI drew: The Six of Diamonds
+AI drew: The Seven of Diamonds
+AI drew: The Nine of Clubs
+AI drew: The Seven of Hearts
+AI drew: The Nine of Diamonds
+AI drew: The Ten of Diamonds
+AI drew: The Queen of Diamonds
+AI drew: The King of Hearts
+AI drew: The Jack of Clubs
+AI drew: The Seven of Clubs
+AI drew: The Six of Spades
+AI drew: The Nine of Clubs
+AI drew: The King of Clubs
+AI drew: The Ace of Diamonds
+AI drew: The Queen of Hearts
+AI drew: The Ten of Hearts
+AI drew: The Six of Clubs
+AI drew: The King of Diamonds
+AI drew: The Seven of Spades
+AI drew: The Six of Spades
+AI drew: The Seven of Clubs
+AI drew: The Jack of Diamonds
+AI drew: The Queen of Diamonds
+AI drew: The Ace of Hearts
+AI drew: The King of Hearts
+AI drew: The Jack of Hearts
+AI drew: The Ten of Clubs
+AI drew: The Seven of Hearts
+AI drew: The Eight of Diamonds
+AI drew: The Queen of Clubs
+AI drew: The Eight of Hearts
+AI drew: The Nine of Hearts
+AI drew: The Eight of Clubs
+AI drew: The Six of Diamonds
+AI drew: The Ten of Diamonds
+AI drew: The Ten of Hearts
+AI drew: The Ten of Diamonds
+AI drew: The Six of Spades
+AI drew: The Ace of Hearts
+AI drew: The King of Diamonds
+AI drew: The Six of Clubs
+AI drew: The Nine of Spades
+AI drew: The Ace of Spades
+AI drew: The Jack of Diamonds
+AI drew: The Nine of Hearts
+AI drew: The King of Spades
+AI drew: The Eight of Clubs
+AI drew: The Eight of Spades
+AI drew: The King of Clubs
+AI drew: The Seven of Spades
+AI drew: The Ten of Clubs
+AI drew: The Jack of Hearts
+AI drew: The Ace of Diamonds
+AI drew: The Ten of Spades
+AI drew: The Ace of Clubs
+AI drew: The Queen of Hearts
+AI drew: The Six of Hearts
+AI drew: The Queen of Diamonds
+AI drew: The Queen of Clubs
+AI drew: The Eight of Clubs
+AI drew: The Ten of Diamonds
+AI drew: The Jack of Diamonds
+AI drew: The Eight of Spades
+AI drew: The Ten of Clubs
+AI drew: The Queen of Spades
+AI drew: The Six of Diamonds
+AI drew: The Six of Hearts
+AI drew: The Nine of Hearts
+AI drew: The Seven of Spades
+AI drew: The Ten of Hearts
+AI drew: The Eight of Diamonds
+AI drew: The King of Hearts
+AI drew: The Seven of Hearts
+AI drew: The Six of Spades
+AI drew: The Queen of Clubs
+AI drew: The Nine of Clubs
+AI drew: The Ace of Spades
+AI drew: The Six of Clubs
+AI drew: The King of Diamonds
+AI drew: The Seven of Clubs
+AI drew: The Nine of Diamonds
+AI drew: The King of Spades
+AI drew: The Ace of Diamonds
+TestPerson1 drew: The King of Clubs
+AI drew: The Ten of Spades
+AI drew: The Queen of Diamonds
+AI drew: The Jack of Hearts
+AI drew: The King of Spades
+AI drew: The Queen of Hearts
+AI drew: The Nine of Spades
+AI drew: The Seven of Diamonds
+AI drew: The Six of Diamonds
+AI drew: The Ace of Hearts
+AI drew: The Nine of Hearts
+AI drew: The Six of Spades
+AI drew: The Ace of Clubs
+AI drew: The Jack of Diamonds
+AI drew: The Eight of Hearts
+AI drew: The Ten of Clubs
+AI drew: The King of Diamonds
+AI drew: The Ace of Diamonds
+AI drew: The Queen of Spades
+AI drew: The Six of Clubs
+AI drew: The Ace of Spades
+AI drew: The Jack of Spades
+AI drew: The Queen of Clubs
+AI drew: The Ten of Diamonds
+Name drew: The King of Clubs
+Name drew: The Nine of Hearts
+Name drew: The Jack of Clubs
+AI drew: The Ace of Diamonds
+AI drew: The Eight of Clubs
+AI drew: The Seven of Diamonds
+AI drew: The Ace of Spades
+AI drew: The King of Diamonds
+AI drew: The Eight of Hearts
+AI drew: The Ten of Spades
+AI drew: The Ten of Diamonds
+AI drew: The Eight of Diamonds
+AI drew: The Queen of Clubs
+AI drew: The Seven of Spades
+AI drew: The Ten of Hearts
+AI drew: The Six of Hearts
+AI drew: The Eight of Spades
+AI drew: The Ace of Hearts
+AI drew: The Seven of Hearts
+AI drew: The Queen of Hearts
+AI drew: The Nine of Diamonds
+AI drew: The Nine of Spades
+AI drew: The Seven of Clubs
+AI drew: The Nine of Clubs
+AI drew: The Queen of Diamonds
+AI drew: The Seven of Spades
+AI drew: The Ten of Spades
+AI drew: The Queen of Spades
+AI drew: The King of Spades
+AI drew: The Seven of Hearts
+AI drew: The Queen of Hearts
+AI drew: The Seven of Clubs
+AI drew: The King of Hearts
+AI drew: The Nine of Clubs
+AI drew: The Ace of Clubs
+AI drew: The Eight of Clubs
+AI drew: The Jack of Spades
+AI drew: The Eight of Spades
+AI drew: The Six of Clubs
+AI drew: The Queen of Clubs
+AI drew: The King of Diamonds
+AI drew: The Nine of Diamonds
+AI drew: The Ace of Hearts
+AI drew: The Nine of Spades
+AI drew: The Ten of Clubs
+AI drew: The Ace of Spades
+AI drew: The Six of Spades
+AI drew: The Seven of Diamonds
+StatsNew drew: The Nine of Hearts
+AI drew: The Six of Diamonds
+AI drew: The Queen of Spades
+AI drew: The Ace of Clubs
+AI drew: The Eight of Diamonds
+AI drew: The King of Hearts
+AI drew: The Ten of Spades
+AI drew: The Jack of Diamonds
+AI drew: The Seven of Clubs
+AI drew: The Ten of Hearts
+AI drew: The Ace of Hearts
+AI drew: The Ace of Diamonds
+AI drew: The Eight of Spades
+AI drew: The Queen of Diamonds
+AI drew: The Nine of Diamonds
+AI drew: The Ace of Spades
+AI drew: The Eight of Clubs
+AI drew: The Seven of Diamonds
+AI drew: The Seven of Hearts
+AI drew: The Nine of Spades
+AI drew: The Eight of Hearts
+AI drew: The Queen of Clubs
+AI drew: The Six of Spades
+AI drew: The Nine of Clubs
+123 drew: The Nine of Spades
+AI drew: The Ten of Spades
+AI drew: The Jack of Diamonds
+AI drew: The Ace of Spades
+AI drew: The Eight of Diamonds
+AI drew: The Queen of Spades
+AI drew: The Queen of Hearts
+AI drew: The Ace of Clubs
+AI drew: The Eight of Hearts
+AI drew: The Eight of Clubs
+AI drew: The Six of Clubs
+AI drew: The King of Diamonds
+AI drew: The Queen of Clubs
+AI drew: The Nine of Clubs
+AI drew: The Seven of Diamonds
+AI drew: The Ten of Diamonds
+AI drew: The Jack of Spades
+AI drew: The King of Spades
+AI drew: The Jack of Hearts
+AI drew: The Nine of Diamonds
+AI drew: The Seven of Spades
+AI drew: The King of Clubs
+AI drew: The Six of Spades
+AI drew: The Ace of Diamonds
+AI drew: The Nine of Diamonds
+AI drew: The Seven of Clubs
+AI drew: The Eight of Spades
+AI drew: The Ten of Spades
+AI drew: The Ace of Clubs
+AI drew: The Nine of Clubs
+AI drew: The Ace of Spades
+AI drew: The Nine of Hearts
+AI drew: The Jack of Clubs
+AI drew: The Eight of Diamonds
+AI drew: The Ace of Diamonds
+AI drew: The Ten of Hearts
+AI drew: The Eight of Clubs
+AI drew: The Six of Hearts
+AI drew: The Nine of Spades
+AI drew: The Ten of Clubs
+AI drew: The Six of Clubs
+AI drew: The Eight of Hearts
+AI drew: The Six of Spades
+AI drew: The Jack of Diamonds
+AI drew: The Queen of Diamonds
+AI drew: The Jack of Spades
+AI drew: The King of Hearts
+AI drew: The Ten of Diamonds
+ashj drew: The Six of Diamonds
+AI drew: The Seven of Hearts
+AI drew: The Ace of Spades
+AI drew: The Seven of Clubs
+AI drew: The Ten of Diamonds
+AI drew: The Queen of Spades
+AI drew: The Eight of Spades
+AI drew: The Jack of Diamonds
+AI drew: The Jack of Clubs
+AI drew: The Nine of Diamonds
+AI drew: The Eight of Clubs
+AI drew: The Ten of Clubs
+AI drew: The Ten of Spades
+AI drew: The Queen of Hearts
+AI drew: The Ten of Hearts
+AI drew: The Jack of Hearts
+AI drew: The Eight of Diamonds
+AI drew: The Ace of Hearts
+AI drew: The Six of Clubs
+AI drew: The King of Diamonds
+AI drew: The King of Spades
+AI drew: The King of Hearts
+AI drew: The Seven of Diamonds
+AI drew: The Six of Spades
+AI drew: The Seven of Hearts
+AI drew: The Jack of Clubs
+AI drew: The Six of Hearts
+AI drew: The Seven of Clubs
+AI drew: The Nine of Clubs
+AI drew: The King of Hearts
+AI drew: The Queen of Spades
+AI drew: The King of Diamonds
+AI drew: The King of Clubs
+AI drew: The Ten of Spades
+AI drew: The Seven of Spades
+AI drew: The Eight of Diamonds
+AI drew: The Seven of Diamonds
+AI drew: The Jack of Diamonds
+AI drew: The Eight of Hearts
+AI drew: The Six of Diamonds
+AI drew: The Ace of Diamonds
+AI drew: The Ten of Hearts
+AI drew: The Jack of Spades
+AI drew: The Ace of Hearts
+AI drew: The Eight of Clubs
+AI drew: The Six of Clubs
+AI drew: The Ten of Clubs
+AI drew: The Jack of Hearts
+e drew: The Nine of Spades
+e drew: The Eight of Clubs
+AI drew: The Seven of Diamonds
+AI drew: The Nine of Hearts
+AI drew: The Ace of Spades
+AI drew: The Nine of Clubs
+AI drew: The Jack of Diamonds
+AI drew: The Ace of Diamonds
+AI drew: The Six of Clubs
+AI drew: The Queen of Hearts
+AI drew: The Seven of Clubs
+AI drew: The Six of Diamonds
+AI drew: The Ten of Clubs
+AI drew: The Six of Spades
+AI drew: The Ace of Hearts
+AI drew: The King of Diamonds
+AI drew: The Queen of Diamonds
+AI drew: The Jack of Clubs
+AI drew: The Six of Hearts
+AI drew: The Eight of Diamonds
+AI drew: The Ten of Spades
+AI drew: The Queen of Spades
+AI drew: The King of Spades
+AI drew: The King of Clubs
+AI drew: The Seven of Diamonds
+AI drew: The King of Clubs
+AI drew: The Ten of Diamonds
+AI drew: The Six of Spades
+AI drew: The Seven of Clubs
+AI drew: The Jack of Spades
+AI drew: The King of Diamonds
+AI drew: The Seven of Spades
+AI drew: The Six of Diamonds
+AI drew: The Queen of Spades
+AI drew: The Six of Clubs
+AI drew: The Ten of Spades
+AI drew: The Ace of Clubs
+AI drew: The Queen of Clubs
+AI drew: The Ten of Clubs
+AI drew: The Ace of Spades
+AI drew: The Ace of Diamonds
+AI drew: The Jack of Hearts
+AI drew: The Queen of Hearts
+AI drew: The Seven of Hearts
+AI drew: The Jack of Clubs
+AI drew: The Six of Hearts
+AI drew: The Jack of Diamonds
+AI drew: The Eight of Spades
+jeebus drew: The Jack of Spades
+AI drew: The Six of Diamonds
+AI drew: The King of Diamonds
+AI drew: The Six of Spades
+AI drew: The Ace of Hearts
+AI drew: The Nine of Hearts
+AI drew: The Nine of Spades
+AI drew: The Seven of Spades
+AI drew: The Eight of Hearts
+AI drew: The Eight of Diamonds
+AI drew: The Jack of Clubs
+AI drew: The Jack of Hearts
+AI drew: The Queen of Hearts
+AI drew: The King of Spades
+AI drew: The Queen of Spades
+AI drew: The Six of Clubs
+AI drew: The Eight of Spades
+AI drew: The Queen of Clubs
+AI drew: The Queen of Diamonds
+AI drew: The Seven of Diamonds
+AI drew: The Jack of Diamonds
+AI drew: The Ten of Spades
+AI drew: The Seven of Clubs
+AI drew: The Ace of Clubs
+ashoksasitharan drew: The Nine of Spades
+AI drew: The Seven of Clubs
+AI drew: The Ten of Spades
+AI drew: The Queen of Diamonds
+AI drew: The Ten of Clubs
+AI drew: The Ace of Hearts
+AI drew: The Seven of Spades
+AI drew: The Nine of Hearts
+AI drew: The Six of Clubs
+AI drew: The Ace of Diamonds
+AI drew: The Eight of Hearts
+AI drew: The Jack of Hearts
+AI drew: The Queen of Hearts
+AI drew: The Ace of Clubs
+AI drew: The Nine of Clubs
+AI drew: The King of Diamonds
+AI drew: The Six of Diamonds
+AI drew: The Eight of Spades
+AI drew: The Queen of Clubs
+AI drew: The Seven of Diamonds
+AI drew: The Ten of Diamonds
+AI drew: The Seven of Hearts
+AI drew: The Ten of Hearts
+AI drew: The Queen of Spades
+AI drew: The Ten of Clubs
+AI drew: The Queen of Spades
+AI drew: The Eight of Spades
+AI drew: The Ten of Diamonds
+AI drew: The Eight of Clubs
+AI drew: The Jack of Diamonds
+AI drew: The Jack of Hearts
+AI drew: The Seven of Hearts
+AI drew: The Six of Clubs
+AI drew: The Queen of Clubs
+AI drew: The Six of Hearts
+AI drew: The King of Spades
+AI drew: The King of Hearts
+AI drew: The Jack of Spades
+AI drew: The Ten of Hearts
+AI drew: The Queen of Diamonds
+AI drew: The Six of Diamonds
+AI drew: The King of Clubs
+AI drew: The Seven of Clubs
+AI drew: The Eight of Diamonds
+AI drew: The Ace of Diamonds
+AI drew: The Seven of Diamonds
+AI drew: The Ace of Hearts
+AI drew: The King of Diamonds
+AI drew: The Seven of Diamonds
+AI drew: The Queen of Diamonds
+AI drew: The Ten of Spades
+AI drew: The King of Hearts
+AI drew: The Jack of Hearts
+AI drew: The Queen of Spades
+AI drew: The Eight of Hearts
+AI drew: The Ace of Hearts
+AI drew: The Queen of Clubs
+AI drew: The Six of Spades
+AI drew: The Ace of Clubs
+AI drew: The King of Spades
+AI drew: The Nine of Clubs
+AI drew: The Eight of Spades
+AI drew: The Jack of Diamonds
+AI drew: The Nine of Hearts
+AI drew: The Jack of Spades
+AI drew: The Six of Diamonds
+AI drew: The Ten of Clubs
+AI drew: The Nine of Spades
+AI drew: The Six of Hearts
+AI drew: The Eight of Clubs
+AI drew: The Ten of Diamonds
+AI drew: The Seven of Hearts
+Player1 drew: The King of Spades The Seven of Hearts
+AI drew: The Ace of Clubs The King of Diamonds
+AI drew: The Seven of Diamonds
+Player1 drew: The Queen of Diamonds
+AI drew: The Six of Spades
+AI drew: The Nine of Clubs
+AI drew: The Seven of Spades
+AI drew: The Ten of Spades
+AI drew: The King of Hearts
+AI drew: The Jack of Spades
+AI drew: The Jack of Diamonds
+AI drew: The Six of Diamonds
+AI drew: The Ace of Hearts
+AI drew: The Eight of Diamonds
+AI drew: The Seven of Hearts
+AI drew: The Ace of Diamonds
+AI drew: The Queen of Spades
+AI drew: The Six of Clubs
+AI drew: The Nine of Spades
+AI drew: The Eight of Hearts
+AI drew: The Ace of Clubs
+AI drew: The Queen of Hearts
+AI drew: The Seven of Diamonds
+AI drew: The Seven of Clubs
+AI drew: The Queen of Diamonds
+AI drew: The King of Spades
+AI drew: The Six of Hearts
+AI drew: The Eight of Clubs
+Player1 drew: The Nine of Diamonds
+AI drew: The Nine of Spades
+AI drew: The Queen of Clubs
+AI drew: The Ace of Spades
+AI drew: The Queen of Spades
+AI drew: The Eight of Hearts
+AI drew: The Seven of Clubs
+AI drew: The Ten of Clubs
+AI drew: The Ace of Hearts
+AI drew: The Eight of Clubs
+AI drew: The Ten of Diamonds
+AI drew: The Six of Spades
+AI drew: The Six of Diamonds
+AI drew: The King of Hearts
+AI drew: The Seven of Diamonds
+AI drew: The Nine of Hearts
+AI drew: The King of Spades
+AI drew: The Queen of Diamonds
+AI drew: The King of Clubs
+AI drew: The Seven of Spades
+AI drew: The Ten of Spades
+AI drew: The Eight of Diamonds
+AI drew: The Nine of Clubs
+AI drew: The King of Diamonds
+AI drew: The Eight of Clubs The Jack of Clubs
+AI drew: The Ace of Clubs
+AI drew: The Jack of Hearts
+AI drew: The Nine of Hearts
+AI drew: The King of Hearts
+AI drew: The Ace of Spades
+AI drew: The Six of Hearts
+AI drew: The Queen of Spades
+AI drew: The Seven of Spades
+AI drew: The Nine of Spades
+AI drew: The Six of Clubs
+AI drew: The Queen of Diamonds
+AI drew: The Queen of Hearts
+AI drew: The Eight of Hearts
+AI drew: The Nine of Diamonds
+AI drew: The Ace of Hearts
+AI drew: The Ten of Diamonds
+AI drew: The Jack of Spades
+AI drew: The Ace of Diamonds
+AI drew: The Jack of Diamonds
+AI drew: The Ten of Spades
+AI drew: The Nine of Clubs
+AI drew: The Ace of Clubs
+AI drew: The Seven of Clubs
+AI drew: The Ten of Hearts
+AI drew: The Ten of Clubs
+gghhgh drew: The Eight of Diamonds
+AI drew: The Nine of Diamonds
+AI drew: The Ten of Spades
+AI drew: The King of Spades
+AI drew: The Queen of Spades
+AI drew: The King of Clubs
+AI drew: The Ten of Hearts
+AI drew: The Jack of Spades
+AI drew: The Seven of Spades
+AI drew: The Seven of Clubs
+AI drew: The Ace of Spades
+AI drew: The Queen of Clubs
+AI drew: The Six of Hearts
+AI drew: The Six of Clubs
+AI drew: The Ace of Hearts
+AI drew: The Six of Diamonds
+AI drew: The Queen of Hearts
+AI drew: The Nine of Hearts
+AI drew: The Eight of Clubs
+AI drew: The Six of Spades
+AI drew: The Jack of Clubs
+AI drew: The Eight of Hearts
+AI drew: The Jack of Hearts
+AI drew: The Ten of Diamonds
+AI drew: The Seven of Clubs The Queen of Clubs
+AI drew: The Queen of Hearts
+Andre drew: The Six of Spades The Eight of Clubs
+AI drew: The Ten of Clubs The Ace of Diamonds The Jack of Diamonds
+AI drew: The Ace of Hearts
+AI drew: The Nine of Diamonds
+AI drew: The Seven of Hearts
+AI drew: The Nine of Clubs
+AI drew: The Six of Diamonds
+AI drew: The Six of Clubs
+AI drew: The Ten of Hearts
+AI drew: The Queen of Diamonds
+AI drew: The Nine of Spades
+AI drew: The Ten of Diamonds
+AI drew: The Eight of Diamonds
+AI drew: The Queen of Spades
+AI drew: The Seven of Spades
+AI drew: The Ten of Spades
+AI drew: The Jack of Hearts
+AI drew: The Six of Hearts
+AI drew: The Six of Spades
+Andre123 drew: The Ten of Clubs The Eight of Hearts
+AI drew: The Ace of Hearts
+AI drew: The Jack of Clubs
+AI drew: The Queen of Diamonds
+AI drew: The Nine of Hearts
+AI drew: The Ace of Diamonds
+AI drew: The Six of Clubs
+AI drew: The Ten of Spades
+AI drew: The Ten of Clubs
+AI drew: The Queen of Spades
+AI drew: The Eight of Clubs
+AI drew: The Eight of Hearts
+AI drew: The Six of Spades
+AI drew: The Eight of Diamonds
+AI drew: The Ten of Hearts
+AI drew: The King of Clubs
+AI drew: The King of Diamonds
+AI drew: The Six of Hearts
+AI drew: The Ace of Spades
+AI drew: The Eight of Spades
+AI drew: The Jack of Diamonds
+AI drew: The Ten of Diamonds
+AI drew: The Queen of Hearts
+AI drew: The Nine of Spades
+AI drew: The Seven of Spades
+AI drew: The Six of Diamonds
+AI drew: The Ace of Spades
+Player1 drew: The Ten of Spades
+AI drew: The Jack of Spades The Nine of Clubs
+Player1 drew: The Six of Clubs The Nine of Diamonds
+AI drew: The Nine of Clubs The Six of Diamonds
+AI drew: The King of Spades
+AI drew: The Eight of Hearts
+AI drew: The Ten of Clubs
+AI drew: The Queen of Clubs
+AI drew: The Eight of Diamonds
+AI drew: The Nine of Hearts
+AI drew: The Ten of Spades
+AI drew: The Seven of Spades
+AI drew: The Six of Spades
+AI drew: The Ace of Spades
+AI drew: The Ace of Diamonds
+AI drew: The Seven of Diamonds
+AI drew: The King of Hearts
+AI drew: The Ace of Hearts
+AI drew: The Queen of Hearts
+AI drew: The Jack of Clubs
+AI drew: The Eight of Spades
+AI drew: The Eight of Clubs
+AI drew: The Queen of Diamonds
+AI drew: The King of Diamonds
+AI drew: The Ten of Spades The Seven of Clubs
+AI drew: The King of Diamonds
